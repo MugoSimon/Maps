@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449199689296",
+    "project_id": "maps-jaribu",
+    "storage_bucket": "maps-jaribu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449199689296:android:cdd598edf75ecc9cf2cb55",
+        "android_client_info": {
+          "package_name": "lastie_wangechian_Maps.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449199689296-0hgimgi55n069jm1otiip5k17fsoutii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06qdBcmvQ2RLrJosnzVSiklXLJDnjS3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449199689296-0hgimgi55n069jm1otiip5k17fsoutii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
